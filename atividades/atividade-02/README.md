@@ -1,6 +1,6 @@
 # Feita pelos alunos:
 - PEDRO HENRIQUE ALVES BARBOSA
-- RIQUELMY RICARTE DA SILVA
+- RIQUELMY DA SILVA RICARTE
 
 # ENUNCIADO:
 Usar o diagrama do banco de dados modelo do Tutorial de Sqlite localizado em https://www.sqlitetutorial.net/sqlite-sample-database/ e refaze-lo usando o PlantUML. 
