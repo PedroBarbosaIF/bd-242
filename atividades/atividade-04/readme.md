@@ -1,3 +1,7 @@
+# ALUNO: PEDRO HENRIQUE ALVES BARBOSA
+## Turma: Informática P4 - 2024.2 
+## Disciplina: Banco de Dados
+
 1) Criar uma tabela TB_CURSO com os seguintes atributos (ID, NOME);
 
 2) Criar na tabela TB_PROFESSOR um atributo CURSO_ID para relacionar o Professor com o Curso.
