@@ -1,4 +1,4 @@
-# Atividade - 06
+# Atividade - 07
 ### Alunos: PEDRO HENRIQUE ALVES BARBOSA & RIQUELMY RICARTE DA SILVA
 
 Criar um Banco de Dados usando o PHPMyAdmin usando o PlayWithDocker. 
